@@ -1,0 +1,7 @@
+https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-aspnet-core?view=vs-2019  - Creating virtual studio project
+
+https://localhost:44324/About
+
+deploy to cloud server
+
+https://cloudsyllabusmohan20190603105629.azurewebsites.net/About
